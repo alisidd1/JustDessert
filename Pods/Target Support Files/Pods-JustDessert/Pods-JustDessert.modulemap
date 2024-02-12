@@ -1,0 +1,6 @@
+framework module Pods_JustDessert {
+  umbrella header "Pods-JustDessert-umbrella.h"
+
+  export *
+  module * { export * }
+}
