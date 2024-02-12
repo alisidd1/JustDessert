@@ -22,7 +22,7 @@ class FavoriteRecipe: Object {
         self.category = category
     }
 
-    required init() {
+    required override init() {
 
     }
 }
